@@ -1,1 +1,4 @@
-Make Believe Town	Location
+Make Believe Town	LOCATION	ORGANIZATION
+[0-9]+\\.[0-9]+	CURRENCY	CD
+[0-9A-Z]+	ID	NUMBER
+India	ASIA	LOCATION
